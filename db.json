@@ -1,0 +1,132 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Exciting News!",
+      "content": "Breaking updates from the tech world."
+    },
+    {
+      "id": 2,
+      "title": "Travel Diaries",
+      "content": "Exploring the beauty of nature."
+    },
+    {
+      "id": 3,
+      "title": "Healthy Living",
+      "content": "10 tips to stay fit and active."
+    },
+    {
+      "id": 4,
+      "title": "Cooking Secrets",
+      "content": "The best pasta recipes revealed!"
+    },
+    {
+      "id": 5,
+      "title": "Movie Mania",
+      "content": "Top 10 films to watch this year."
+    },
+    {
+      "id": 6,
+      "title": "Tech Trends",
+      "content": "Innovations that are changing the world."
+    },
+    {
+      "id": 7,
+      "title": "Daily Motivation",
+      "content": "Start your day with positive energy."
+    },
+    {
+      "id": 8,
+      "title": "DIY Crafts",
+      "content": "Creative projects for your free time."
+    },
+    {
+      "id": 9,
+      "title": "Adventure Awaits",
+      "content": "Planning the ultimate road trip."
+    },
+    {
+      "id": 10,
+      "title": "Fashion Forward",
+      "content": "The latest trends for this season."
+    },
+    {
+      "id": 11,
+      "title": "Gadget Reviews",
+      "content": "Top smartphones of 2024."
+    },
+    {
+      "id": 12,
+      "title": "Mindful Moments",
+      "content": "Meditation practices for beginners."
+    },
+    {
+      "id": 13,
+      "title": "Hobby Spotlight",
+      "content": "Why everyone loves photography."
+    },
+    {
+      "id": 14,
+      "title": "Book Club Picks",
+      "content": "Must-read novels of the decade."
+    },
+    {
+      "id": 15,
+      "title": "Fitness Goals",
+      "content": "Achieve your personal best in 30 days."
+    },
+    {
+      "id": 16,
+      "title": "Gaming Galore",
+      "content": "The most anticipated games of the year."
+    },
+    {
+      "id": 17,
+      "title": "Space Exploration",
+      "content": "New discoveries beyond our planet."
+    },
+    {
+      "id": 18,
+      "title": "Urban Tales",
+      "content": "Stories from the heart of the city."
+    },
+    {
+      "id": 19,
+      "title": "Pet Love",
+      "content": "Caring for your furry friends."
+    },
+    {
+      "id": 20,
+      "title": "History Unveiled",
+      "content": "Lessons from the past that shape our future."
+    }
+  ],
+
+  "user": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "password": "12345"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "password": "12345"
+    },
+    {
+      "id": 5,
+      "name": "Eve Wilson",
+      "password": "12345"
+    }
+  ]
+}
